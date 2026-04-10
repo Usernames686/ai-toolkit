@@ -33,7 +33,7 @@ This repository snapshot publishes the skill as a standalone package and adds re
 
 Changes made for this publication:
 
-- copied the packaged `slidecraft` skill into this repository layout
+- Some optimizations have been made.
 - preserved the original `LICENSE`, `README.md`, `SKILL.md`, references, examples, and scripts
 - added repository-level provenance notes so attribution and licensing are easy to verify
 
